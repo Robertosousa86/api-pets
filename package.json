@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/fabiotindin/template-node-ts#readme",
   "dependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/uuid": "^8.3.1",
     "cors": "^2.8.5",
     "express": "^4.17.1"
   },
